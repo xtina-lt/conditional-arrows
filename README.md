@@ -6,29 +6,14 @@
 
 </aside>
 
-### **Learning Objectives**
+### **Objectives**
 - Apply a ternary operator within an arrow function to evaluate a condition and generate output based on the result.
 - Demonstrate proficiency in implementing a ternary operator to perform conditional checks and generate appropriate outputs.
 
 ### Links
  - [Notion Page Version](https://different-delivery-037.notion.site/Conditional-Arrows-Core-dfe92e24fddc42cbace73e3924736765?pvs=4)
  - [Section Notes](https://different-delivery-037.notion.site/Modern-JavaScript-9302deb4f93d48699228e16d600e360f?pvs=4)
----
 
-Welcome to another **Core assignment**! Some students like to explore the assignments before they're finished reading through the lessons, and that's okay! It can be good for your brain to have a preview of what your future challenges might be. However, before you begin this assignment, it's important that you've first:
-
-- Completed the preceding lesson modules
-- Taken the knowledge checks to confirm your understanding
-- Viewed lecture material related to the assignment topics
-- Completed and submitted your practice assignments
-
----
-
-# **Conditional Arrows:**
-
-This assignment will ask you to recall what we have learned about the new syntax, rules, and techniques associated with ES6 topics like arrow functions and the ternary operator. You will be given directions to write code that tests your knowledge of these skills.
-
-The following code block is an example of what each problem should look like in your .js file.
 
 # **Expected Layout Example**
 
@@ -167,13 +152,9 @@ const checkGreatest = (x, y) => ( x == y ) ? `${x} is equal to ${y}` : ( x  >  y
 
 ![Untitled](./Images/Untitled%204.png)
 
-## Checklist
 
-- [x]  Create the arrow function and ternary operator that corresponds with Problem 1
-- [x]  Create the arrow function and ternary operator that corresponds with Problem 2
-- [x]  Create the arrow function and ternary operator that corresponds with Problem 3
-- [x]  Create the arrow function and ternary operator that corresponds with Problem 4
-- [x]  Ninja Bonus: Refactor each function to be as short as possible using implicit returns.
+
+
 
 
 <!-- 👣FOOTER👣 -->
